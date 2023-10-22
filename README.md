@@ -1,14 +1,24 @@
 <div align="center">
-### <h1>Olá, Eu sou o <a href=https://www.linkedin.com/in/guilherme-silva-5a39b51b2/>Guilherme Henrique 👋</h1>
+<h1>Olá, Eu sou o <a href=https://www.linkedin.com/in/guilherme-silva-5a39b51b2/>Guilherme Henrique 👋</h1>
 
-- 🌱 Estudando NodeJS/BackEnd.
-- Carreira na area de programação no inicio porem gosto de mostrar a minha evolução atraves do GitHub e Linkedln
+  
+  <h4 align="center">
+    🌱 Estudando NodeJS/BackEnd.
+  </h4>
+  
+<h4 align="center">
+    Carreira na area de programação no inicio porem gosto de mostrar a minha evolução atraves do GitHub e Linkedln.
+</h4>
 
 </div>
+
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-SilvaH&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=monokai)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-SilvaH&layout=compact&theme=monokai)
+
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
