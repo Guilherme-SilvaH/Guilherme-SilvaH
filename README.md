@@ -7,7 +7,7 @@
   </h4>
   
 <h4 align="center">
-    Carreira na area de programação no inicio porem gosto de mostrar a minha evolução atraves do GitHub e Linkedln.
+    Carreira na area da programação no inicio porem gosto de mostrar a minha evolução atraves do GitHub e Linkedln.
 </h4>
 <br>
 
