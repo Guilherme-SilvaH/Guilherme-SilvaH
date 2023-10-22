@@ -7,16 +7,18 @@
   </h4>
   
 <h4 align="center">
-    Carreira na area da programação no inicio porem gosto de mostrar a minha evolução atraves do GitHub e Linkedln.
+    Carreira na area da programação no inicio, porem gosto de mostrar a minha evolução atraves do GitHub e Linkedln.
 </h4>
 <br>
 
 </div>
+
 <div align="center">
+  <a href="https://github.com/Guilherme-SilvaH">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-SilvaH&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=monokai"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-SilvaH&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=monokai)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-SilvaH&layout=compact&theme=monokai)
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-SilvaH&layout=compact&theme=monokai"/>
+  </a>
 </div>
 
 <div align="center" style="display: inline_block"><br>
