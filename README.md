@@ -3,7 +3,7 @@
 
   
   <h4 align="center">
-    🌱 Estudando BackEnd / Front-End.
+    🌱 Estudando BackEnd / FrontEnd.
   </h4>
   
 <h4 align="center">
